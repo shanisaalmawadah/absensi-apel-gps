@@ -11,10 +11,9 @@
     <input type="text" name="lokasi" id="lokasi" readonly placeholder="Menunggu lokasi...">
     <button type="submit">Absensi Sekarang</button>
   </form>
-
-   
-  <p id="statusLokasi">Lokasi belum diperbarui...</p>
   
+  
+  <p id="statusLokasi">Lokasi belum diperbarui...</p>
   <script>
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(function(posisi) {
