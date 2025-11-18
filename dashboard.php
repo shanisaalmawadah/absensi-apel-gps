@@ -5,7 +5,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h2>Dashboard Absensi Apel - ruwanda</h2>
+  <h2>Dashboard Absensi Apel edit oleh ruwanda</h2>
   <form action="absensi.php" method="POST">
     <input type="hidden" name="user_id" value="1">
     <input type="text" name="lokasi" id="lokasi" readonly placeholder="Menunggu lokasi...">
