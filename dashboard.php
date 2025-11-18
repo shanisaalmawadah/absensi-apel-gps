@@ -11,6 +11,7 @@
     <input type="text" name="lokasi" id="lokasi" readonly placeholder="Menunggu lokasi...">
     <button type="submit">Absensi Sekarang</button>
   </form>
+  <p>Perubahan tambahan oleh RIZKI</p>
 
   <script>
     if (navigator.geolocation) {
