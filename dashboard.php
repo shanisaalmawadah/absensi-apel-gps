@@ -13,6 +13,8 @@
     <button type="submit">Absensi Sekarang</button>
   </form>
 
+  <p>Perubahan ditambah oleh SHANISA</p>
+
   <script>
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(function(posisi) {
